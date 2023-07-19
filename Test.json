@@ -31,13 +31,15 @@
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
+        "电影",
         "连续剧",
+        "综艺",
         "动漫"
       ]
     },
     {
       "key": "csp_WoGG",
-      "name": "💂‍┃阿里┃玩偶",
+      "name": "💂‍┃玩偶┃哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -47,7 +49,7 @@
     },
     {
       "key": "XYQaL_4kHDR",
-      "name": "👩‍⚕️┃玩偶┃姐姐",
+      "name": "💂‍♀️┃玩偶┃姐姐",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
@@ -56,7 +58,7 @@
     },
     {
       "key": "cps_aliyunpan",
-      "name": "👩‍🔬┃玩偶┃妹妹",
+      "name": "👩‍⚕️┃玩偶┃妹妹",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
@@ -73,7 +75,7 @@
     },
     {
       "key": "js_企鹅",
-      "name": "🐧┃企鹅┃基地",
+      "name": "🐧┃腾讯视频┃",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -83,7 +85,7 @@
     },
     {
       "key": "js_奇异",
-      "name": "🥝┃奇异┃大厂",
+      "name": "🥝┃奇异视频┃",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -93,7 +95,7 @@
     },
     {
       "key": "js_芒果",
-      "name": "🥭┃芒芒┃大厂",
+      "name": "🥭┃芒果视频┃",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -103,7 +105,7 @@
     },
     {
       "key": "js_优酷",
-      "name": "👑┃油库┃大厂",
+      "name": "👑┃优酷视频┃",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -113,7 +115,7 @@
     },
     {
       "key": "js_菜狗",
-      "name": "🐕️┃菜狗┃大厂",
+      "name": "🐕️┃搜狗视频┃",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -123,7 +125,7 @@
     },
     {
       "key": "csp_阿里七夜",
-      "name": "🔎┃阿里┃七夜",
+      "name": "💿┃阿里┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -133,7 +135,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🏵️‍┃阿里┃PanS",
+      "name": "💿‍┃阿里┃PanS",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -143,7 +145,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "🌤️┃阿里┃云搜",
+      "name": "💿┃阿里┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -153,7 +155,7 @@
     },
     {
       "key": "Alips",
-      "name": "📀┃阿里┃盘搜",
+      "name": "💿┃阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -163,7 +165,7 @@
     },
     {
       "key": "Yisou",
-      "name": "🎯┃阿里┃易搜",
+      "name": "💿┃阿里┃易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -173,7 +175,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🔍┃阿里┃找片",
+      "name": "💿┃阿里┃找片",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
