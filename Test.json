@@ -55,9 +55,10 @@
       "api": "csp_XYQHiker",
       "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
       "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
-    },    {
+    },
+    {
       "key": "酷酷",
-      "name": "📺┃酷酷┃直连",
+      "name": "📺┃酷酷┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -71,12 +72,52 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "📺┃明明┃直连",
+      "name": "📺┃明明┃APP",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "酷影",
+      "name": "📺┃泰泰┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://124.222.175.111:89/api.php/app/"
+    },
+    {
+      "key": "测试2",
+      "name": "📺┃可可┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
+    {
+      "key": "瑞丰",
+      "name": "📺┃辣辣┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
+      "key": "csp_aidi",
+      "name": "📺┃爱迪┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "csp_Nmys",
@@ -106,6 +147,75 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/"
+    },
+    {
+      "key": "阿里资源",
+      "name": "🏆┃阿里┃切片",
+      "type": 1,
+      "api": "https://cms.alyzy.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "playUrl": "https://player.emofun.cn/player/ec.php?code=xy&if=1&url=",
+      "quickSearch": 1
+    },
+    {
+      "key": "非凡资源",
+      "name": "🏆┃非凡┃切片",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "快看资源",
+      "name": "🏆┃快看┃切片",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "js_企鹅",
