@@ -55,6 +55,14 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
     },
     {
+      "key": "cps_aliyunpan",
+      "name": "👩‍🔬┃玩偶┃妹妹",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
+      "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
+    },
+    {
       "key": "XYQH_电影港",
       "name": "🛳┃港口┃磁力",
       "type": 3,
@@ -172,6 +180,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
+    },
+    {
+      "key": "push_agent",
+      "name": "📨┃影视┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "提示",
