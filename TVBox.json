@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🔥┃豆瓣┃热门筛选榜单",
+      "name": "🔥┃豆瓣┃热门热播筛选榜单🔥",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -12,7 +12,7 @@
     },
     {
       "key": "js豆瓣备用",
-      "name": "🔥┃豆瓣|热门筛选榜单",
+      "name": "🔥┃豆瓣|热门热播筛选榜单🔥",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/doubanbf.js",
       "searchable": 1,
