@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🍥┃阿里┃软件接口免费,禁止贩卖,公众号:『多多影音』提供🍥",
+      "name": "🔥┃豆瓣┃热门热播筛选榜单🔥",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -15,7 +15,7 @@
     },
     {
       "key": "js豆瓣备用",
-      "name": "🍥┃豆瓣备用┃付费获取接口都是骗人的,勿信视频中广告🍥",
+      "name": "🔥┃豆瓣┃热门热播筛选榜单🔥",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/doubanbf.js",
       "searchable": 1,
@@ -31,15 +31,13 @@
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
-        "电影",
         "连续剧",
-        "综艺",
         "动漫"
       ]
     },
     {
       "key": "csp_WoGG",
-      "name": "💂‍┃玩偶┃哥哥",
+      "name": "💂‍┃阿里┃玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -49,12 +47,20 @@
     },
     {
       "key": "XYQaL_4kHDR",
-      "name": "💂‍♀️┃玩偶┃姐姐",
+      "name": "👩‍⚕️┃玩偶┃姐姐",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
       "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
       "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
+    },
+    {
+      "key": "cps_aliyunpan",
+      "name": "👩‍🔬┃玩偶┃妹妹",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
+      "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
     },
     {
       "key": "XYQH_电影港",
@@ -66,58 +72,8 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
     },
     {
-      "key": "js_企鹅",
-      "name": "👑┃官方┃腾讯",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qtv.js"
-    },
-    {
-      "key": "js_奇异",
-      "name": "👑┃官方┃奇艺",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qzys.js"
-    },
-    {
-      "key": "js_芒果",
-      "name": "👑┃官方┃芒果",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/baimang.js"
-    },
-    {
-      "key": "js_优酷",
-      "name": "👑┃官方┃优酷",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"
-    },
-    {
-      "key": "js_菜狗",
-      "name": "👑┃官方┃搜狗",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
-    },
-    {
       "key": "csp_阿里七夜",
-      "name": "💿┃阿里┃七夜┃",
+      "name": "🔎┃阿里┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -127,7 +83,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "💿‍┃阿里┃PanS┃",
+      "name": "🏵️‍┃阿里┃PanS",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -137,7 +93,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "💿┃阿里┃云搜┃",
+      "name": "🌤️┃阿里┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -147,7 +103,7 @@
     },
     {
       "key": "Alips",
-      "name": "💿┃阿里┃盘搜┃",
+      "name": "📀┃阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -157,7 +113,7 @@
     },
     {
       "key": "Yisou",
-      "name": "💿┃阿里┃易搜┃",
+      "name": "🎯┃阿里┃易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -167,13 +123,73 @@
     },
     {
       "key": "Zhaozy",
-      "name": "💿┃阿里┃找片┃",
+      "name": "🔍┃阿里┃找片",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+    },
+    {
+      "key": "js_企鹅",
+      "name": "🐧┃企鹅┃基地",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qtv.js"
+    },
+    {
+      "key": "js_奇异",
+      "name": "🥝┃奇异┃大厂",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qzys.js"
+    },
+    {
+      "key": "js_芒果",
+      "name": "🥭┃芒芒┃大厂",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/baimang.js"
+    },
+    {
+      "key": "js_优酷",
+      "name": "👑┃油库┃大厂",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"
+    },
+    {
+      "key": "js_菜狗",
+      "name": "🐕️┃菜狗┃大厂",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
+    },
+    {
+      "key": "push_agent",
+      "name": "📨┃影视┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "提示",
