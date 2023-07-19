@@ -173,7 +173,25 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
-    }
+    },
+		{
+			"key": "提示",
+			"name": "不要点击",
+			"type": 3,
+			"api": "360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "说明",
+			"name": "不要点击",
+			"type": 3,
+			"api": "360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}
   ],
   "parses": [
     {
