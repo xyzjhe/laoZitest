@@ -184,18 +184,8 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
     },
     {
-      "key": "push_agent",
-      "name": "📨┃影视┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
       "key": "提示",
-      "name": "公众号：多多影音",
+      "name": "不要点击",
       "type": 3,
       "api": "360",
       "searchable": 1,
@@ -204,7 +194,7 @@
     },
     {
       "key": "说明",
-      "name": "软件接口完全免费",
+      "name": "不要点击",
       "type": 3,
       "api": "360",
       "searchable": 1,
