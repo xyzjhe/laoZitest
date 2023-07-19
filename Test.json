@@ -46,6 +46,14 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
     },
     {
+      "key": "cps_aliyunpan",
+      "name": "👩‍🔬┃玩偶┃妹妹",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
+      "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
+    },
+    {
       "key": "XYQH_电影港",
       "name": "🛳┃港口┃磁力",
       "type": 3,
