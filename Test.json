@@ -67,7 +67,7 @@
     },
     {
       "key": "js_企鹅",
-      "name": "👑┃官方腾讯┃",
+      "name": "👑┃官方┃腾讯",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -77,7 +77,7 @@
     },
     {
       "key": "js_奇异",
-      "name": "👑┃官方奇艺┃",
+      "name": "👑┃官方┃奇艺",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -87,7 +87,7 @@
     },
     {
       "key": "js_芒果",
-      "name": "👑┃官方芒果┃",
+      "name": "👑┃官方┃芒果",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "js_优酷",
-      "name": "👑┃官方优酷┃",
+      "name": "👑┃官方┃优酷",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -107,7 +107,7 @@
     },
     {
       "key": "js_菜狗",
-      "name": "👑┃官方搜狗┃",
+      "name": "👑┃官方┃搜狗",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
