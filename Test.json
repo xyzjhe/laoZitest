@@ -30,7 +30,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "💂‍┃玩偶┃哥哥",
+      "name": "💂🏻‍♂️┃玩偶┃哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "XYQaL_4kHDR",
-      "name": "👩‍⚕️┃玩偶┃姐姐",
+      "name": "💂🏻‍♀️┃玩偶┃姐姐",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
@@ -57,7 +57,7 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
     },    {
       "key": "酷酷",
-      "name": "📺┃酷酷┃App",
+      "name": "📺┃酷酷┃直连",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "📺┃明明┃App",
+      "name": "📺┃明明┃直连",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
