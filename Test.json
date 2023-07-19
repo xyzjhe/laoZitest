@@ -31,9 +31,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
-        "电影",
         "连续剧",
-        "综艺",
         "动漫"
       ]
     },
@@ -177,7 +175,7 @@
     },
     {
       "key": "提示",
-      "name": "不要点击",
+      "name": "公众号：多多影音",
       "type": 3,
       "api": "360",
       "searchable": 1,
@@ -186,7 +184,7 @@
     },
     {
       "key": "说明",
-      "name": "不要点击",
+      "name": "软件接口完全免费",
       "type": 3,
       "api": "360",
       "searchable": 1,
