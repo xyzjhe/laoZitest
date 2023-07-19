@@ -28,6 +28,15 @@
         "动漫"
       ]
     },
+	{
+      "key": "AList",
+      "name": "💼┃网盘┃管理",
+      "type": "3",
+      "api": "csp_AList",
+      "changeable": "0",
+      "searchable": "1",
+      "ext": "https://jihulab.com/oiltea/tv/-/raw/main/Alist.json"
+	},
     {
       "key": "csp_WoGG",
       "name": "💂🏻‍♂️┃玩偶┃哥哥",
