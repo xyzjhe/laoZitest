@@ -33,7 +33,7 @@
       "filterable": 0,
       "ext": "../ext/音乐/酷奇MV.json"
     },
-	{"key": "📺┃在线┃直连", "name": "📺┃在线┃直连", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.zxzj.pro/"}
+	{"key": "📺┃在线┃直连", "name": "📺┃在线┃直连", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, , "api": "csp_Zxzj", "ext": "https://www.zxzj.pro/"}
   ],
   "rules": [
     {
