@@ -4,8 +4,13 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
 
-	{"key":"幼儿乐园","name":"🏫幼儿乐园💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/幼儿乐园.json"},
-	{"key":"少儿教育","name":"🏫少儿教育💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/少儿教育.json"},
+	{"key":"教育-0-幼儿乐园","name":"🏫教育-0-幼儿乐园💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"../ext/教育-0-幼儿乐园.json"},
+	{"key":"教育-1-少儿教育","name":"🏫教育-1-少儿教育💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"../ext/教育-1-少儿教育.json"},
+	{"key":"教育-2-小学教育","name":"🏫教育-2-小学教育💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"../ext/教育-2-小学教育.json"},
+	{"key":"教育-3-初中教育","name":"🏫教育-3-初中教育💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"../ext/教育-3-初中教育.json"},
+	{"key":"教育-4-高中教育","name":"🏫教育-4-高中教育💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"../ext/教育-4-高中教育.json"},
+	{"key":"教育-5-儿童乐园","name":"🏫教育-5-儿童乐园💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"../ext/教育-5-儿童乐园.json"},
+	{"key":"教育-6-学习园地","name":"🏫教育-6-学习园地💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"../ext/教育-6-学习园地.json"},
 
 	{"key": "📺┃在线┃直连", "name": "📺┃在线┃直连", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "api": "csp_Zxzj", "ext": "https://www.zxzj.pro/"}
   ],
