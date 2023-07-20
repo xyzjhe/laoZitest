@@ -38,5 +38,11 @@
 	{"key":"[网盘]-阿里云搜","name":"💿网盘┃阿里云搜","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","api":"csp_UpYun"},
 	{"key":"[网盘]-阿里易搜","name":"💿网盘┃阿里易搜","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","api":"csp_YiSo"},
 	{"key":"[网盘]-阿里找片","name":"💿网盘┃阿里找片","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","api":"csp_Zhaozy"}
+  ],
+  "rules": [
+	{"name": "火山嗅探", "hosts": "huoshan.com", "regex": ["item_id="]},
+	{"name": "抖音嗅探", "hosts": "douyin.com", "regex": ["is_play_url="]},
+	{"name": "量子切片", "hosts": ["vip.lz", "hd.lz"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name": "非凡切片", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}
   ]
 }
