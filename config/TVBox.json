@@ -10,10 +10,7 @@
 	{"key": "💂🏻‍♀️┃玩偶┃姐姐", "name": "💂🏻‍♀️┃玩偶┃姐姐", "type": 3, "playerType": 1, "api": "csp_XYQHikerAL", "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1", "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"}, 
 	{"key": "📺┃港口┃磁力", "name": "📺┃港口┃磁力", "type": 3, "playerType": 1, "api": "csp_XYQHiker", "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1", "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"},
 	
-	{"key": "酷酷", "name": "📺┃酷酷┃APP", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "csp_AppYsV2", "ext": "http://cms.realdou.cn/api.php/app/", "categories": ["4K电影", "4K电视剧"]}
-	{"key": "[影视]-酷酷影视", "name": "123", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "csp_AppYsV2", "ext": "http://cms.realdou.cn/api.php/app/", "categories": ["4K电影", "4K电视剧"]}
-	
-	{"key": "[影视]-酷酷影视", "name": "📺影视┃酷酷影视", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "csp_AppYsV2", "ext": "http://cms.realdou.cn/api.php/app/"}, 
+	{"key": "[影视]-酷酷影视", "name": "📺影视┃酷酷影视", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "csp_AppYsV2", "ext": "http://cms.realdou.cn/api.php/app/", "categories": ["4K电影", "4K电视剧"]}, 
 	{"key": "[影视]-明明影视", "name": "📺影视┃明明影视", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "api": "csp_AppMr"}, 
 	{"key": "[影视]-泰泰影视", "name": "📺影视┃泰泰影视", "type": 3, "searchable": 1, "quickSearch": 1, "filterable": 1, "api": "csp_AppYsV2", "ext": "http://124.222.175.111:89/api.php/app/"}, 
 	{"key": "[影视]-可可影视", "name": "📺影视┃可可影视", "type": 3, "searchable": 1, "quickSearch": 1, "filterable": 1, "api": "csp_AppYsV2", "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"}, 
