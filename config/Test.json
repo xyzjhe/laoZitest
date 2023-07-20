@@ -4,8 +4,8 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
 
-	{"key":"幼儿乐园","name":"🏫幼儿乐园💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/幼儿乐园.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0802.jar"},
-	{"key":"少儿教育","name":"🏫少儿教育💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/少儿教育.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0802.jar"},
+	{"key":"幼儿乐园","name":"🏫幼儿乐园💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/幼儿乐园.json"},
+	{"key":"少儿教育","name":"🏫少儿教育💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/少儿教育.json"},
 
 	{"key": "📺┃在线┃直连", "name": "📺┃在线┃直连", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "api": "csp_Zxzj", "ext": "https://www.zxzj.pro/"}
   ],
