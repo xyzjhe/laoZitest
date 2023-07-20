@@ -6,16 +6,20 @@
 
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1},
 
-
-	{"key": "📺┃酷酷┃APP", "name": "📺┃酷酷┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "changeable": 0}, 
-	{"key": "📺┃明明┃APP", "name": "📺┃明明┃APP", "type": 3, "api": "csp_AppMr", "searchable": 1, "quickSearch": 1, "changeable": 1 }, 
-	{"key": "📺┃泰泰┃APP", "name": "📺┃泰泰┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
-	{"key": "📺┃可可┃APP", "name": "📺┃可可┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
-	{"key": "📺┃辣辣┃APP", "name": "📺┃辣辣┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
-	{"key": "📺┃爱迪┃APP", "name": "📺┃爱迪┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
-	{"key": "📺┃农民┃直连", "name": "📺┃农民┃直连", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "changeable": 1}, 
-	{"key": "📺┃双十┃直连", "name": "📺┃双十┃直连", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "api": "csp_Dy1010"}, 
-	{"key": "📺┃在线┃直连", "name": "📺┃在线┃直连", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "api": "csp_Zxzj"}
+    {
+      "key": "酷酷",
+      "name": "📺┃酷酷┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://cms.realdou.cn/api.php/app/",
+      "categories": [
+        "4K电影",
+        "4K电视剧"
+      ]
+    }
 ],
   "rules": [
     {
