@@ -4,11 +4,14 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
   
-{"key":"[影视]-JSON-云播影视","name":"📺影视┃JSON┃云播影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/tvb云播.json"},
-{"key":"[影视]-JSON-金眼影视","name":"📺影视┃JSON┃金眼影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/金眼影视.json"},
-{"key":"[影视]-JSON-达龟影视","name":"📺影视┃JSON┃达龟影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XPathFilter","ext":"https://bitbucket.org/xduo/json/raw/master/达达龟.json"},
+	{"key":"[影视]-APP-瑞丰影视","name":"📺影视┃APP┃瑞丰影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},
+	{"key":"[影视]-APP-酷影影视","name":"📺影视┃APP┃酷影影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://cms.realdou.cn/api.php/app/"},
+	{"key":"[影视]-APP-新建影视","name":"📺影视┃APP┃新建影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
+	{"key":"[影视]-APP-蛋蛋影视","name":"📺影视┃APP┃蛋蛋影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://app.mengdandan.com/xgapp.php/v1/"},
+	{"key":"[影视]-APP-极狐影视","name":"📺影视┃APP┃极狐影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
+	{"key":"[影视]-APP-爱迪影视","name":"📺影视┃APP┃爱迪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+	{"key":"[影视]-APP-耐菲影视","name":"📺影视┃APP┃耐菲影视","type":3,"filterable":1,"quickSearch":1,"searchable":1,"api":"csp_AppYsV2","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 
-		
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
 ],
   "rules": [
