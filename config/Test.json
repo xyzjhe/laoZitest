@@ -4,41 +4,37 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
 
-{"key":"csp_appysv2_小七影视","name":"📺小七影视(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
-{"key":"csp_appysv2_佑尘云影视","name":"📺佑尘云影视(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_万能影院","name":"🎥万能影院(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_兔子窝","name":"🐇兔子窝(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_天天视频","name":"🎥天天视频(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
-{"key":"csp_appysv2_淘剧社","name":"🎥淘剧社(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
-{"key":"csp_appysv2_诺诺影视","name":"🎥诺诺影视(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nnys.cuicanys.cn/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_猫咪影视","name":"🐈猫咪影视(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dy103.com/api.php/v1.vod"},
-{"key":"csp_appysv2_豆芽视频","name":"📺豆芽视频(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_啊玲影视","name":"🎥啊玲影视(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://520dml.xyz/api.php/v1.vod"},
-{"key":"csp_appysv2_OK影视","name":"🎥OK影视(萝卜)💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"},
-
-
-{"key":"csp_appysv2_渔渔影视","name":"📺渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
-{"key":"csp_appysv2_筑梦云影视","name":"📺筑梦云影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_一站VIP影视","name":"📺一站VIP影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod"},
-{"key":"csp_appysv2_影库","name":"📺影库(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_月儿影视","name":"🌙月儿影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
-{"key":"csp_appysv2_鑫总资源","name":"📺鑫总资源(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_夕阳影视","name":"☀夕阳影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod"},
-
-{"key":"csp_appysv2_小鸟动漫","name":"🐦小鸟动漫(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_星辰TV","name":"💥星辰TV(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_蜗牛动漫","name":"🐌蜗牛动漫(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_悟空影院","name":"🙈悟空影院(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
-{"key":"csp_appysv2_天诚影视","name":"🎥天诚影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tcspvip.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_群鑫影视","name":"🎥群鑫影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
-{"key":"csp_appysv2_可乐影视","name":"🍾可乐影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://klyingshi.com/api.php/v1.vod"},
-{"key":"csp_appysv2_佳佳影视","name":"🎥佳佳影视(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
-{"key":"csp_appysv2_狐影TV","name":"🦊狐影TV(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.foxhtv.com/api.php/v1.vod"},
-{"key":"csp_appysv2_爱电影","name":"💖爱电影(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_MX影院","name":"🎥MX影院(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.889998.xyz/api.php/v1.vod"},
-{"key":"csp_appysv2_52看剧","name":"🎥52看剧(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
-{"key":"csp_appysv2_521看剧","name":"🎥521看剧(萝卜)🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://521kanju.com/api.php/v1.vod"},
-
+        {
+            "key": "js_酷狗MV",
+            "name": "🎻┃酷狗┃音乐",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "ext": "https://bitbucket.org/xduo/json/raw/master/酷狗MV.js"
+        },
+        {
+            "key": "js_a8音乐",
+            "name": "🎸┃奥迪┃音乐",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "ext": "https://bitbucket.org/xduo/json/raw/master/a8音乐.js"
+        },
+        {
+            "key": "csp_酷奇",
+            "name": "🎤┃酷奇┃音乐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://bitbucket.org/xduo/json/raw/master/酷奇MV.json"
+        },
+		
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
 ],
   "rules": [
