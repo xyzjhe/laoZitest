@@ -6,7 +6,13 @@
 
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1},
 
-	{"key": "酷酷", "name": "📺┃酷酷┃APP", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "csp_AppYsV2", "ext": "http://cms.realdou.cn/api.php/app/"}
+	{"key":"異界","name":"異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1},
+	{"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
+	{"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
+	{"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
+	{"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1},
+	{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0},
+	{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0}
 ],
   "rules": [
 	{"hosts": ["vip.lz", "hd.lz"], "name": "量子", "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
