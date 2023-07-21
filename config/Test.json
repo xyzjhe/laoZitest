@@ -4,16 +4,13 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
 		
-{"key":"[影视]-JSON-茉莉影视","name":"📺影视┃JSON┃茉莉影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/moli.json"},
-{"key":"[影视]-JSON-御龙影视","name":"📺影视┃JSON┃御龙影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/yulong.json"},
-{"key":"[影视]-JSON-奇优影视","name":"📺影视┃JSON┃奇优影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/奇优影院.json"},
-{"key":"[影视]-JSON-农民影视","name":"📺影视┃JSON┃农民影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Nmys","ext":"https://bitbucket.org/xduo/json/raw/master/Nmys.json"},
-{"key":"[影视]-JSON-剧白影视","name":"📺影视┃JSON┃剧白影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/剧白白.json"},
-{"key":"[影视]-JSON-土豪影视","name":"📺影视┃JSON┃土豪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/土豪.json"},
-{"key":"[影视]-JSON-石榴影视","name":"📺影视┃JSON┃石榴影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/shiliu.json"},
-{"key":"[影视]-JSON-胖虎影视","name":"📺影视┃JSON┃胖虎影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/胖虎.json"},
-{"key":"[影视]-JSON-荷塘影视","name":"📺影视┃JSON┃荷塘影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/野荷塘.json"},
-{"key":"[影视]-JSON-骚火影视","name":"📺影视┃JSON┃骚火影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/骚火电影.json"},
+{"key":"[影视]-JSON-御龙影视","name":"📺影视┃JSON┃御龙影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-御龙影视.json"},
+{"key":"[影视]-JSON-奇优影视","name":"📺影视┃JSON┃奇优影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-奇优影视.json"},
+{"key":"[影视]-JSON-农民影视","name":"📺影视┃JSON┃农民影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Nmys","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-农民影视.json"},
+{"key":"[影视]-JSON-剧白影视","name":"📺影视┃JSON┃剧白影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-剧白影视.json"},
+{"key":"[影视]-JSON-土豪影视","name":"📺影视┃JSON┃土豪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-土豪影视.json"},
+{"key":"[影视]-JSON-胖虎影视","name":"📺影视┃JSON┃胖虎影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-胖虎影视.json"},
+{"key":"[影视]-JSON-骚火影视","name":"📺影视┃JSON┃骚火影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-骚火影视.json"},
 		
 		
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
