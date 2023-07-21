@@ -7,9 +7,9 @@
 		{"key":"📢┃新片┃热播","name":"📢┃新片┃热播","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","categories":["电影","连续剧","综艺","动漫"]},
 		{"key":"💼┃网盘┃管理","name":"💼┃网盘┃管理","type":3,"searchable":1,"changeable":0,"api":"csp_AList","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/网盘-杜江.json"},
 		
-		{"key":"[分割]-直连-1","name":"🔻🔻🔻 直连资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-直连-2","name":"🔻🔻🔻 直连资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-直连-3","name":"🔻🔻🔻 直连资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-直连-1","name":"🔻🔻 直连资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-直连-2","name":"🔻🔻 直连资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-直连-3","name":"🔻🔻 直连资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 		{"key":"[影视]-直连-玩偶哥哥","name":"📺直连┃玩偶哥哥","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_WoGG","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://wogg.xyz/"},
 		{"key":"[影视]-直连-玩偶姐姐","name":"📺直连┃玩偶姐姐","type":3,"playerType":1,"jar":"https://jihulab.com/oiltea/tv/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-玩偶姐姐.json","api":"csp_XYQHikerAL"},
@@ -24,9 +24,9 @@
 		{"key":"[影视]-直连-蓝光影院","name":"📺直连┃蓝光影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Lgyy","ext":"https://www.lgyy.vip"},
 		{"key":"[影视]-直连-三五电影","name":"📺直连┃三五影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Ys555","ext":"https://www.555dyy1.com"},
 		
-		{"key":"[分割]-APP-1","name":"🔻🔻🔻 APP资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-APP-2","name":"🔻🔻🔻 APP资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-APP-3","name":"🔻🔻🔻 APP资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-APP-1","name":"🔻🔻 APP资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-APP-2","name":"🔻🔻 APP资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-APP-3","name":"🔻🔻 APP资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 		{"key":"[影视]-APP-明明影视","name":"📺APP┃明明影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"csp_AppMr"},
 		{"key":"[影视]-APP-辣辣影视","name":"📺APP┃辣辣影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},
@@ -41,9 +41,9 @@
 		{"key":"[影视]-APP-影探影视","name":"📺APP┃影探影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"api":"csp_AppYsV2","ext":"http://ytcms.lfytyl.com/api.php/app/"},
 		{"key":"[影视]-APP-易影影视","name":"📺APP┃易影影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"api":"csp_AppYsV2","ext": "https://v.goyiquan.com/api.php/app/"},
 
-		{"key":"[分割]-JS-1","name":"🔻🔻🔻 JS资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-JS-2","name":"🔻🔻🔻 JS资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-JS-3","name":"🔻🔻🔻 JS资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-JS-1","name":"🔻🔻 JS资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-JS-2","name":"🔻🔻 JS资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-JS-3","name":"🔻🔻 JS资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 		{"key":"[影视]-JS-农民影视","name":"📺JS┃农民影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-农民影视.js"},
 		{"key":"[影视]-JS-利奥影视","name":"📺JS┃利奥影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-利奥影视.js"},
@@ -61,9 +61,9 @@
 		{"key":"[官方]-JS-芒果解析","name":"📺JS┃芒果影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-JS-芒果视频.js"},
 		{"key":"[官方]-JS-搜狗解析","name":"📺JS┃搜狗影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-JS-搜狗视频.js"},
 
-		{"key":"[分割]-JSON-1","name":"🔻🔻🔻 JSON资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-JSON-2","name":"🔻🔻🔻 JSON资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"[分割]-JSON-3","name":"🔻🔻🔻 JSON资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-JSON-1","name":"🔻🔻 JSON资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-JSON-2","name":"🔻🔻 JSON资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"[分割]-JSON-3","name":"🔻🔻 JSON资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 		{"key":"[影视]-JSON-御龙影视","name":"📺JSON┃御龙影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-御龙影视.json"},
 		{"key":"[影视]-JSON-奇优影视","name":"📺JSON┃奇优影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-奇优影视.json"},
@@ -72,9 +72,9 @@
 		{"key":"[影视]-JSON-云播影视","name":"📺JSON┃云播影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-云播影视.json"},
 		{"key":"[影视]-JSON-金眼影视","name":"📺JSON┃金眼影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-金眼影视.json"},
 		
-		{"key":"分割线21","name":"🔻🔻 其他资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"分割线22","name":"🔻🔻 其他资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"分割线23","name":"🔻🔻 其他资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"分割线21","name":"🔻🔻 其他资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"分割线22","name":"🔻🔻 其他资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"分割线23","name":"🔻🔻 其他资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
         {"key":"[音乐]-酷狗音乐","name":"🎻音乐┃酷狗音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-酷狗音乐.js"},
 		{"key":"[音乐]-奥迪音乐","name":"🎻音乐┃奥迪音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-奥迪音乐.js"},
@@ -88,9 +88,9 @@
 		{"key":"[教育]-初中教育","name":"🏫教育┃初中教育","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"csp_Bili","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/教育-初中教育.json"},
 		{"key":"[教育]-高中教育","name":"🏫教育┃高中教育","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"csp_Bili","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/教育-高中教育.json"},
 
-		{"key":"分割线51","name":"🔻🔻🔻 网盘资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"分割线52","name":"🔻🔻🔻 网盘资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"分割线53","name":"🔻🔻🔻 网盘资源 🔻🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"分割线51","name":"🔻🔻 网盘资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"分割线52","name":"🔻🔻 网盘资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"分割线53","name":"🔻🔻 网盘资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 		{"key":"[网盘]-阿里七夜","name":"💿网盘┃阿里七夜","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","api":"csp_Dovx"},
 		{"key":"[网盘]-阿里盘搜","name":"💿网盘┃阿里盘搜","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","api":"csp_PanSou"},
