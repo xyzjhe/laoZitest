@@ -3,16 +3,32 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
+	{"key":"廠長","name":"廠長","type":3,"searchable":1,"changeable":1,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js"},
+	{"key":"愛看","name":"愛看","type":3,"searchable":1,"changeable":1,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js"},
+	{"key":"快看","name":"快看","type":3,"searchable":1,"changeable":1,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js"},
 
-	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1},
+	{"key":"csp_biubiu_蓝光影院","name":"📺蓝光影院(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/蓝光影院.json"},
+	{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🎡真不卡影院(XB)💎","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/真不卡影院(不支持搜索).json"},
+	{"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/骚火电影.json"},
+	{"key":"csp_biubiu_如如影视","name":"🎡如如影视(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/如如影视.json"},
+	{"key":"csp_biubiu_奇优影院（不支持搜）","name":"📺奇优影院(XB)💎","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/奇优影院（不支持搜）.json"},
+	{"key":"csp_biubiu_创艺影视","name":"📺创艺影视(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/创艺影视.json"},
+	{"key":"csp_biubiu_影渣渣","name":"📺影渣渣(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/影渣渣.json"},
+	{"key":"csp_biubiu_牛马TV","name":"🐂牛马TV(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/牛马TV.json"},
+	{"key":"csp_biubiu_4K电影网","name":"📺4K电影网(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/4K电影网.json"},
 
-	{"key":"異界","name":"異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1},
-	{"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
-	{"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
-	{"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
-	{"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1},
-	{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0},
-	{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0}
+	{"key":"csp_biubiu_爱看影视","name":"💖爱看影视(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/爱看影视.json"},
+	{"key":"csp_biubiu_极品影视","name":"📺极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/极品影视.json"},
+	{"key":"csp_biubiu_在线之家","name":"🏠在线之家(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/在线之家.json"},
+	{"key":"csp_biubiu_LIBVIO","name":"🎦LIBVIO(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/LIBVIO.json"},
+	{"key":"csp_biubiu_影视工厂","name":"🎦影视工厂(XB)💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/影视工厂.json"},
+	{"key":"csp_biubiu_利丽娅电影","name":"📺利丽娅电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/利丽娅电影.json"},
+	{"key":"csp_biubiu_4kan电影网","name":"📺4kan电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/4kan电影网.json"},
+	{"key":"csp_biubiu_影视之光","name":"📺影视之光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/影视之光.json"},
+	{"key":"csp_biubiu_COKEMV","name":"🎥COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/COKEMV.json"},
+	{"key":"csp_biubiu_555电影","name":"🎡555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/555电影.json"},
+
+	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
 ],
   "rules": [
 	{"hosts": ["vip.lz", "hd.lz"], "name": "量子", "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
