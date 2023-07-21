@@ -8,8 +8,8 @@
 		{"key":"💼┃网盘┃管理","name":"💼┃网盘┃管理","type":3,"searchable":1,"changeable":0,"api":"csp_AList","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/网盘-杜江.json"},
 		
 		{"key":"[影视]-玩偶哥哥","name":"📺影视┃玩偶哥哥","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_WoGG","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://wogg.xyz/"},
-		{"key":"[影视]-玩偶姐姐","name":"📺影视┃玩偶姐姐","type":3,"playerType":1,"api":"csp_XYQHikerAL","jar":"https://jihulab.com/oiltea/tv/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-玩偶姐姐.json"},
-		{"key":"[影视]-港口影视","name":"📺影视┃港口影视","type":3,"playerType":1,"api":"csp_XYQHiker","jar":"https://jihulab.com/oiltea/tv/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-港口影视.json"},
+		{"key":"[影视]-玩偶姐姐","name":"📺影视┃玩偶姐姐","type":3,"playerType":1,"jar":"https://jihulab.com/oiltea/tv/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-玩偶姐姐.json","api":"csp_XYQHikerAL"},
+		{"key":"[影视]-港口影视","name":"📺影视┃港口影视","type":3,"playerType":1,"jar":"https://jihulab.com/oiltea/tv/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-港口影视.json","api":"csp_XYQHiker"},
 		
 		{"key":"[影视]-原生-快看影视","name":"📺影视┃快看影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Kuaikan"},
 		{"key":"[影视]-原生-双十影视","name":"📺影视┃双十影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Dy1010"},
