@@ -27,7 +27,13 @@
 		{"key":"[影视]-APP-可可影视","name":"📺影视┃可可影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
 		{"key":"[影视]-APP-辣辣影视","name":"📺影视┃辣辣影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},
 		{"key":"[影视]-APP-爱迪影视","name":"📺影视┃爱迪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
-
+		
+		{"key":"[影视]-JSON-御龙影视","name":"📺影视┃JSON┃御龙影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-御龙影视.json"},
+		{"key":"[影视]-JSON-奇优影视","name":"📺影视┃JSON┃奇优影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-奇优影视.json"},
+		{"key":"[影视]-JSON-剧白影视","name":"📺影视┃JSON┃剧白影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-剧白影视.json"},
+		{"key":"[影视]-JSON-胖虎影视","name":"📺影视┃JSON┃胖虎影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-胖虎影视.json"},
+		{"key":"[影视]-JSON-骚火影视","name":"📺影视┃JSON┃骚火影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-骚火影视.json"},
+		
         {"key":"[音乐]-酷狗音乐","name":"🎻音乐┃酷狗音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-1-酷狗音乐.js"},
 		{"key":"[音乐]-奥迪音乐","name":"🎸音乐┃奥迪音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-2-奥迪音乐.js"},
 		{"key":"[音乐]-酷奇音乐","name":"🎻音乐┃酷奇音乐","type":3,"searchable":0,"quickSearch":0,"filterable":0,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-3-酷奇音乐.json"},
