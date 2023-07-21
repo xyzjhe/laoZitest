@@ -4,15 +4,9 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
   
-	{"key":"[影视]-JS-农民影视","name":"📺影视┃JS┃农民影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-农民影视.js"},
-	{"key":"[影视]-JS-利奥影视","name":"📺影视┃JS┃利奥影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-利奥影视.js"},
-	{"key":"[影视]-JS-低端影视","name":"📺影视┃JS┃低端影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-低端影视.js"},
-	{"key":"[影视]-JS-师兄影视","name":"📺影视┃JS┃师兄影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-师兄影视.js"},
-	{"key":"[影视]-JS-先生影视","name":"📺影视┃JS┃先生影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-先生影视.js"},
-	{"key":"[影视]-JS-乐猪影视","name":"📺影视┃JS┃乐猪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-乐猪影视.js"},
-	{"key":"[影视]-JS-小狗影视","name":"📺影视┃JS┃小狗影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-小狗影视.js"},
-	{"key":"[影视]-JS-创艺影视","name":"📺影视┃JS┃创艺影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-创艺影视.js"},
-	{"key":"[影视]-JS-视觉影视","name":"📺影视┃JS┃视觉影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-视觉影视.js"},
+{"key":"[影视]-JSON-云播影视","name":"📺影视┃JSON┃云播影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/tvb云播.json"},
+{"key":"[影视]-JSON-金眼影视","name":"📺影视┃JSON┃金眼影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/金眼影视.json"},
+{"key":"[影视]-JSON-达龟影视","name":"📺影视┃JSON┃达龟影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XPathFilter","ext":"https://bitbucket.org/xduo/json/raw/master/达达龟.json"},
 
 		
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
