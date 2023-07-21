@@ -3,17 +3,8 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
-  
-	{"key":"美食合集","name":"🅱️┃美食合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_meishi","ext":"https://bitbucket.org/xduo/json/raw/master/美食合集.py"},
-	{"key":"戏曲合集","name":"🅱️┃戏曲合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_xuqu1","ext":"https://bitbucket.org/xduo/json/raw/master/xiqu.py"},
-	{"key":"健身合集","name":"🅱️┃健身合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_TYjs","ext":"https://bitbucket.org/xduo/json/raw/master/tiyu.py"},
-	{"key":"相声合集","name":"🅱️┃相声合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_xiangsh","ext":"https://bitbucket.org/xduo/json/raw/master/xiaopin.py"},
-	{"key":"美女合集","name":"🅱️┃美女合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_Meinvw","ext":"https://bitbucket.org/xduo/json/raw/master/meinv.py"},
-	{"key":"歌手合集","name":"🅱️┃歌手合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_yanchh","ext":"https://bitbucket.org/xduo/json/raw/master/geshou.py"},
-	{"key":"女团合集","name":"🅱️┃女团合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_Nvtuan","ext":"https://bitbucket.org/xduo/json/raw/master/nvtuan.py"},
-	{"key":"歌曲视频","name":"🅱️┃歌曲视频","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_MTV","ext":"https://bitbucket.org/xduo/json/raw/master/mtv.py"},
-	{"key":"音悦合集","name":"🅱️┃音悦合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_Yinl2","ext":"https://bitbucket.org/xduo/json/raw/master/yinyue.py"},
-	{"key":"MTV 合集","name":"🅱️┃MTV 合集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://tvbox-mv.leevi0321.repl.co/mv/vod"},
+
+	{"key":"MTV合集","name":"🅱️┃MTV 合集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://tvbox-mv.leevi0321.repl.co/mv/vod"},
 	{"key":"直播合集","name":"🅱️┃直播合集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 1,"api":"csp_Yj1211"}
 ],
   "rules": [

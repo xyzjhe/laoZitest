@@ -31,7 +31,6 @@
 		{"key":"[影视]-APP-爱迪影视","name":"📺影视┃APP┃爱迪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
 		{"key":"[影视]-APP-耐菲影视","name":"📺影视┃APP┃耐菲影视","type":3,"filterable":1,"quickSearch":1,"searchable":1,"api":"csp_AppYsV2","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 
-		
 		{"key":"[影视]-JS-农民影视","name":"📺影视┃JS┃农民影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-农民影视.js"},
 		{"key":"[影视]-JS-利奥影视","name":"📺影视┃JS┃利奥影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-利奥影视.js"},
 		{"key":"[影视]-JS-低端影视","name":"📺影视┃JS┃低端影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-低端影视.js"},
@@ -50,15 +49,18 @@
 		{"key":"[影视]-JSON-云播影视","name":"📺影视┃JSON┃云播影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-云播影视.json"},
 		{"key":"[影视]-JSON-金眼影视","name":"📺影视┃JSON┃金眼影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-金眼影视.json"},
 		
-        {"key":"[音乐]-酷狗音乐","name":"🎻音乐┃酷狗音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-1-酷狗音乐.js"},
-		{"key":"[音乐]-奥迪音乐","name":"🎸音乐┃奥迪音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-2-奥迪音乐.js"},
-		{"key":"[音乐]-酷奇音乐","name":"🎻音乐┃酷奇音乐","type":3,"searchable":0,"quickSearch":0,"filterable":0,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-3-酷奇音乐.json"},
-
 		{"key":"[官方]-腾讯解析","name":"👑官方┃腾讯解析","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-1-腾讯视频.js"},
 		{"key":"[官方]-奇艺解析","name":"👑官方┃奇艺解析","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-2-奇艺视频.js"},
 		{"key":"[官方]-优酷解析","name":"👑官方┃优酷解析","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-3-优酷视频.js"},
 		{"key":"[官方]-芒果解析","name":"👑官方┃芒果解析","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-4-芒果视频.js"},
 		{"key":"[官方]-搜狗解析","name":"👑官方┃搜狗解析","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-5-搜狗视频.js"},
+
+        {"key":"[音乐]-酷狗音乐","name":"🎻音乐┃酷狗音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-1-酷狗音乐.js"},
+		{"key":"[音乐]-奥迪音乐","name":"🎸音乐┃奥迪音乐","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-2-奥迪音乐.js"},
+		{"key":"[音乐]-酷奇音乐","name":"🎻音乐┃酷奇音乐","type":3,"searchable":0,"quickSearch":0,"filterable":0,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/音乐-3-酷奇音乐.json"},
+
+		{"key":"[合集]-音视合集","name":"🅱️合集┃音视合集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"api":"https://tvbox-mv.leevi0321.repl.co/mv/vod"},
+		{"key":"[合集]-直播合集","name":"🅱️合集┃直播合集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 1,"api":"csp_Yj1211"},
 
 		{"key":"[教育]-儿童乐园","name":"🏫教育┃儿童乐园","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"csp_Bili","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/教育-1-儿童乐园.json"},
 		{"key":"[教育]-小学教育","name":"🏫教育┃小学教育","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"csp_Bili","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/教育-2-小学教育.json"},
