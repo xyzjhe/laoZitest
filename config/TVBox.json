@@ -17,6 +17,8 @@
 		{"key":"[影视]-直连-快看影视","name":"📺直连┃快看影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Kuaikan"},
 		{"key":"[影视]-直连-双十影视","name":"📺直连┃双十影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Dy1010"},
 		{"key":"[影视]-直连-二三影视","name":"📺直连┃二三影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_SP33"},
+		{"key":"[影视]-直连-工厂影视","name":"📺直连┃工厂影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Ysgc"},
+		{"key":"[影视]-直连-沃夫影视","name":"📺直连┃沃夫影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Voflix"},
 		{"key":"[影视]-直连-在线之家","name":"📺直连┃在线影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Zxzj","ext":"https://www.zxzj.pro/"},
 		{"key":"[影视]-直连-一起电视","name":"📺直连┃一起影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_YQKAPP","ext":"https://hk-api-cf.yqk5659.com"},
 		{"key":"[影视]-直连-蓝光影院","name":"📺直连┃蓝光影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Lgyy","ext":"https://www.lgyy.vip"},
