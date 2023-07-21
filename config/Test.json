@@ -4,7 +4,6 @@
 	"warningText":"接口免费整理维护，请勿付费购买",
 	"sites":[
 	
-		{"key":"[官方]-JS-搜狗解析","name":"👑JS┃搜狗解析","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-爱看影视.js"}
 	],
 	"rules":[
 		{"hosts":["vip.lz","hd.lz"],"name":"量子","regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
