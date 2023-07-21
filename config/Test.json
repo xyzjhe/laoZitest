@@ -4,36 +4,15 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
 
-        {
-            "key": "js_酷狗MV",
-            "name": "🎻┃酷狗┃音乐",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-            "ext": "https://bitbucket.org/xduo/json/raw/master/酷狗MV.js"
-        },
-        {
-            "key": "js_a8音乐",
-            "name": "🎸┃奥迪┃音乐",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-            "ext": "https://bitbucket.org/xduo/json/raw/master/a8音乐.js"
-        },
-        {
-            "key": "csp_酷奇",
-            "name": "🎤┃酷奇┃音乐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/酷奇MV.json"
-        },
+		{"key":"[影视]-厂长影视","name":"📺影视┃厂长影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Czsapp"},
+		{"key":"[影视]-快看影视","name":"📺影视┃快看影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Kuaikan"},
+		{"key":"[影视]-双十影院","name":"📺影视┃双十影院","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Dy1010"},
+		{"key":"[影视]-二明影视","name":"📺影视┃二明影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppMr"},
+		{"key":"[影视]-饭团影视","name":"📺影视┃饭团影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_Fantuan"},
+		{"key":"[影视]-三六影视","name":"📺影视┃三六影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_SP33"},
+		{"key":"[影视]-可乐影视","name":"📺影视┃可乐影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_Cokemv"},
+		{"key":"[影视]-青山影视","name":"📺影视┃青山影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Auete"},
+		{"key":"[影视]-鼻涕影视","name":"📺影视┃鼻涕影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Bttwoo"},
 		
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
 ],
