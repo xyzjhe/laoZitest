@@ -3,8 +3,9 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
-
-	{"key":"MTV合集","name":"🅱️┃MTV 合集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://tvbox-mv.leevi0321.repl.co/mv/vod"},
+	{"key":"[影视]-玩偶姐姐","name":"📺影视┃玩偶姐姐","type":3,"playerType":1,"api":"csp_XYQHikerAL","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-1-玩偶姐姐.json"},
+	{"key":"[影视]-港口影视","name":"📺影视┃港口影视","type":3,"playerType":1,"api":"csp_XYQHiker","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-2-港口影视.json"},
+		
 	{"key":"直播合集","name":"🅱️┃直播合集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 1,"api":"csp_Yj1211"}
 ],
   "rules": [
