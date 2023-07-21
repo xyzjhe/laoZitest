@@ -3,7 +3,7 @@
 	"wallpaper":"https://bing.img.run/rand.php",
 	"warningText":"接口免费整理维护，请勿付费购买",
 	"sites":[
-
+{"key":"360影视","name":"🚛360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
 	],
 	"rules":[
 		{"hosts":["vip.lz","hd.lz"],"name":"量子","regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
