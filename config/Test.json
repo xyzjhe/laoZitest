@@ -4,15 +4,17 @@
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
   
-	{"key":"[影视]-APP-瑞丰影视","name":"📺影视┃APP┃瑞丰影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},
-	{"key":"[影视]-APP-酷影影视","name":"📺影视┃APP┃酷影影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://cms.realdou.cn/api.php/app/"},
-	{"key":"[影视]-APP-新建影视","name":"📺影视┃APP┃新建影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
-	{"key":"[影视]-APP-蛋蛋影视","name":"📺影视┃APP┃蛋蛋影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://app.mengdandan.com/xgapp.php/v1/"},
-	{"key":"[影视]-APP-极狐影视","name":"📺影视┃APP┃极狐影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
-	{"key":"[影视]-APP-爱迪影视","name":"📺影视┃APP┃爱迪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-	{"key":"[影视]-APP-耐菲影视","name":"📺影视┃APP┃耐菲影视","type":3,"filterable":1,"quickSearch":1,"searchable":1,"api":"csp_AppYsV2","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-
-	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
+	{"key":"美食合集","name":"🅱️┃美食合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_meishi","ext":"https://bitbucket.org/xduo/json/raw/master/美食合集.py"},
+	{"key":"戏曲合集","name":"🅱️┃戏曲合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_xuqu1","ext":"https://bitbucket.org/xduo/json/raw/master/xiqu.py"},
+	{"key":"健身合集","name":"🅱️┃健身合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_TYjs","ext":"https://bitbucket.org/xduo/json/raw/master/tiyu.py"},
+	{"key":"相声合集","name":"🅱️┃相声合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_xiangsh","ext":"https://bitbucket.org/xduo/json/raw/master/xiaopin.py"},
+	{"key":"美女合集","name":"🅱️┃美女合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_Meinvw","ext":"https://bitbucket.org/xduo/json/raw/master/meinv.py"},
+	{"key":"歌手合集","name":"🅱️┃歌手合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_yanchh","ext":"https://bitbucket.org/xduo/json/raw/master/geshou.py"},
+	{"key":"女团合集","name":"🅱️┃女团合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_Nvtuan","ext":"https://bitbucket.org/xduo/json/raw/master/nvtuan.py"},
+	{"key":"歌曲视频","name":"🅱️┃歌曲视频","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_MTV","ext":"https://bitbucket.org/xduo/json/raw/master/mtv.py"},
+	{"key":"音悦合集","name":"🅱️┃音悦合集","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"py_Yinl2","ext":"https://bitbucket.org/xduo/json/raw/master/yinyue.py"},
+	{"key":"MTV 合集","name":"🅱️┃MTV 合集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://tvbox-mv.leevi0321.repl.co/mv/vod"},
+	{"key":"直播合集","name":"🅱️┃直播合集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 1,"api":"csp_Yj1211"}
 ],
   "rules": [
 	{"hosts": ["vip.lz", "hd.lz"], "name": "量子", "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
