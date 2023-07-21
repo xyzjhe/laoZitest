@@ -38,6 +38,8 @@
 		{"key":"[影视]-APP-六九影视","name":"📺APP┃六九影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"api":"csp_AppYsV2","ext":"https://www.69mj.com/xgapp.php/v2/"},
 		{"key":"[影视]-APP-爱迪影视","name":"📺APP┃爱迪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
 		{"key":"[影视]-APP-耐菲影视","name":"📺APP┃耐菲影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"api":"csp_AppYsV2","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+		{"key":"[影视]-APP-影探影视","name":"📺APP┃影探影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"api":"csp_AppYsV2","ext":"http://ytcms.lfytyl.com/api.php/app/"},
+		{"key":"[影视]-APP-易影影视","name":"📺APP┃易影影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"api":"csp_AppYsV2","ext": "https://v.goyiquan.com/api.php/app/"},
 
 		{"key":"[分割]-JS-1","name":"🔻以下为 JS 资源🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"[分割]-JS-2","name":"🔻以下为 JS 资源🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
