@@ -3,16 +3,11 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText": "接口免费整理维护，请勿付费购买",
   "sites": [
-
-		{"key":"[影视]-厂长影视","name":"📺影视┃厂长影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Czsapp"},
-		{"key":"[影视]-快看影视","name":"📺影视┃快看影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Kuaikan"},
-		{"key":"[影视]-双十影院","name":"📺影视┃双十影院","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Dy1010"},
-		{"key":"[影视]-二明影视","name":"📺影视┃二明影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppMr"},
-		{"key":"[影视]-饭团影视","name":"📺影视┃饭团影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_Fantuan"},
-		{"key":"[影视]-三六影视","name":"📺影视┃三六影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_SP33"},
-		{"key":"[影视]-可乐影视","name":"📺影视┃可乐影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_Cokemv"},
-		{"key":"[影视]-青山影视","name":"📺影视┃青山影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Auete"},
-		{"key":"[影视]-鼻涕影视","name":"📺影视┃鼻涕影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Bttwoo"},
+	{"key":"在线之家","name":"在线之家","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Zxzj","ext":"https://www.zxzj.pro/"},
+	{"key":"一起电视","name":"一起电视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_YQKAPP","ext":"https://hk-api-cf.yqk5659.com"},
+	{"key":"蓝光影院","name":"蓝光影院","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Lgyy","ext":"https://www.lgyy.vip"},
+	{"key":"三五电影","name":"三五电影","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Ys555","ext":"https://www.555dyy1.com"},
+	{"key":"影视工厂","name":"影视工厂","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Ysgc","ext":"https://www.ysgc.fun"},
 		
 	{"key":"直播聚合","name":"直播聚合","type":3,"api":"csp_Yj1211","changeable": 1,"searchable":1}
 ],

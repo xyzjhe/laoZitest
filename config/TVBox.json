@@ -11,15 +11,9 @@
 		{"key":"[影视]-玩偶姐姐","name":"📺影视┃玩偶姐姐","type":3,"playerType":1,"api":"csp_XYQHikerAL","jar":"https://jihulab.com/oiltea/tv/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-1-玩偶姐姐.json"},
 		{"key":"[影视]-港口影视","name":"📺影视┃港口影视","type":3,"playerType":1,"api":"csp_XYQHiker","jar":"https://jihulab.com/oiltea/tv/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-2-港口影视.json"},
 		
-		{"key":"[影视]-厂长影视","name":"📺影视┃厂长影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Czsapp"},
 		{"key":"[影视]-快看影视","name":"📺影视┃快看影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Kuaikan"},
-		{"key":"[影视]-双十影院","name":"📺影视┃双十影院","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Dy1010"},
-		{"key":"[影视]-二明影视","name":"📺影视┃二明影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppMr"},
-		{"key":"[影视]-饭团影视","name":"📺影视┃饭团影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_Fantuan"},
+		{"key":"[影视]-双十影视","name":"📺影视┃双十影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Dy1010"},
 		{"key":"[影视]-三六影视","name":"📺影视┃三六影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_SP33"},
-		{"key":"[影视]-可乐影视","name":"📺影视┃可乐影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_Cokemv"},
-		{"key":"[影视]-青山影视","name":"📺影视┃青山影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Auete"},
-		{"key":"[影视]-鼻涕影视","name":"📺影视┃鼻涕影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Bttwoo"},
 		
 		{"key":"[影视]-明明影视","name":"📺影视┃明明影视","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_AppMr"},
 		{"key":"[影视]-酷酷影视","name":"📺影视┃酷酷影视","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"csp_AppYsV2","ext":"http://cms.realdou.cn/api.php/app/"},
@@ -27,7 +21,7 @@
 		{"key":"[影视]-可可影视","name":"📺影视┃可可影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
 		{"key":"[影视]-辣辣影视","name":"📺影视┃辣辣影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},
 		{"key":"[影视]-爱迪影视","name":"📺影视┃爱迪影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
-		{"key":"[影视]-双十影视","name":"📺影视┃双十影视","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_Dy1010"},
+		
 		{"key":"[影视]-农民影视","name":"📺影视┃农民影视","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_Nmys","ext":"http://饭太硬.top/x/json/nmys.json"},
 		{"key":"[影视]-在线影视","name":"📺影视┃在线影视","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_Zxzj","ext":"https://www.zxzj.pro/"},
 
