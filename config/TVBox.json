@@ -54,10 +54,7 @@
 			"ext": {
 				"flag": [
 					"qq"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.1.0"
-				}
+				]
 			},
 			"name": "12号线",
 			"type": 0,
