@@ -50,6 +50,19 @@
 	"rules":[
 	],
 	"parses":[
+		{
+			"ext": {
+				"flag": [
+					"腾讯"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			},
+			"name": "12号线",
+			"type": 0,
+			"url": "https://jx.jsonplayer.com/player/?url="
+		}
 	],
 	"flags":[],
 	"ijk":[{
