@@ -53,7 +53,9 @@
 		{"name":"聚合","type":3,"url":"Demo"},
 		{"name":"并发","type":2,"url":"Parallel"},
 		{"name":"轮询","type":2,"url":"Sequence"},
-		{"name":"万能解析","type":0,"url":"https://www.wannengjiexi.com/jiexi1/?url="},
+		{"name":"万能解析1","type":0,"url":"https://www.wannengjiexi.com/jiexi1/?url="},
+		{"name":"万能解析2","type":0,"url":"https://www.wannengjiexi.com/jiexi2/?url="},
+		{"name":"万能解析3","type":0,"url":"https://www.wannengjiexi.com/jiexi3/?url="},
 		{"name":"剖云解析","type":0,"url":"https://www.pouyun.com/?url="},
 		{"name":"自动解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}
 	],
