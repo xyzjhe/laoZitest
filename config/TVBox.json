@@ -53,7 +53,7 @@
 		{
 			"ext": {
 				"flag": [
-					"腾讯"
+					"qq"
 				],
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
@@ -64,7 +64,7 @@
 			"url": "https://jx.jsonplayer.com/player/?url="
 		}
 	],
-	"flags":[],
+	"flags":["qq"],
 	"ijk":[{
 		"group":"软解码",
 		"options":[
