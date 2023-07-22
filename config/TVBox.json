@@ -1,5 +1,5 @@
 {
-	"spider":"https://jihulab.com/oiltea/tv/-/raw/main/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E",
+	"spider":"https://jihulab.com/oiltea/tv/-/raw/main/custom_spider.jar;md5;EDAB3976B24E102336354D445026329F",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"warningText":"接口免费整理维护，请勿付费购买",
 	"sites":[
@@ -23,21 +23,20 @@
 		{"key":"[影视]-APP-酷酷影视","name":"📺APP┃酷酷影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"api":"csp_AppYsV2","ext":"http://cms.realdou.cn/api.php/app/"},
 		{"key":"[影视]-APP-可可影视","name":"📺APP┃可可影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"api":"csp_AppYsV2","ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
 		{"key":"[影视]-APP-六九影视","name":"📺APP┃六九影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"api":"csp_AppYsV2","ext":"https://www.69mj.com/xgapp.php/v2/"},
-		{"key":"[官方]-JS-爱看影视","name":"📺解析┃爱看影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JS-爱看影视.js"},
+		{"key":"[影视]-JSON-剧白影视","name":"📺JSON┃剧白影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-剧白影视.json"},
+
 		{"key":"[官方]-JS-腾讯解析","name":"📺解析┃腾讯影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-JS-腾讯视频.js"},
 		{"key":"[官方]-JS-奇艺解析","name":"📺解析┃奇艺影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-JS-奇艺视频.js"},
 		{"key":"[官方]-JS-优酷解析","name":"📺解析┃优酷影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-JS-优酷视频.js"},
 		{"key":"[官方]-JS-芒果解析","name":"📺解析┃芒果影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-JS-芒果视频.js"},
 		{"key":"[官方]-JS-搜狗解析","name":"📺解析┃搜狗影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/官方-JS-搜狗视频.js"},
 
-		{"key":"[影视]-JSON-剧白影视","name":"📺JSON┃剧白影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-JSON-剧白影视.json"},
-
 		{"key":"分割线21","name":"🔻🔻 其他资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"分割线22","name":"🔻🔻 其他资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"分割线23","name":"🔻🔻 其他资源 🔻🔻","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
-		{"key":"[合集]-音视合集","name":"🅱️合集┃音视合集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"api":"https://tvbox-mv.leevi0321.repl.co/mv/vod"},
 		{"key":"[合集]-直播合集","name":"🅱️合集┃直播合集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 1,"api":"csp_Yj1211"},
+		{"key":"[合集]-音视合集","name":"🅱️合集┃音视合集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"api":"https://tvbox-mv.leevi0321.repl.co/mv/vod"},
 		{"key":"[教育]-儿童乐园","name":"🏫教育┃儿童乐园","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"csp_Bili","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/教育-儿童乐园.json"},
 		{"key":"[教育]-小学教育","name":"🏫教育┃小学教育","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"csp_Bili","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/教育-小学教育.json"},
 		{"key":"[教育]-初中教育","name":"🏫教育┃初中教育","type":3,"searchable":0,"quickSearch":0,"filterable":1,"api":"csp_Bili","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/教育-初中教育.json"},
