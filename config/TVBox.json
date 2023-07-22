@@ -43,15 +43,15 @@
 		{"key":"[网盘]-阿里易搜","name":"💿网盘┃阿里易搜","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","api":"csp_YiSo"},
 		{"key":"[网盘]-阿里找片","name":"💿网盘┃阿里找片","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","api":"csp_Zhaozy"}
 	],
+	"rules":[
+	],
 	"parses":[
 		{"name":"聚合","type":3,"url":"Demo"},
 		{"name":"并发","type":2,"url":"Parallel"},
 		{"name":"轮询","type":2,"url":"Sequence"},
 		{"name":"自动解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}
 	],
-	"ads":[]
 	"flags":[],
-	"rules":[],
 	"ijk":[{
 		"group":"软解码",
 		"options":[
@@ -92,5 +92,6 @@
 			{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 			{"category":4,"name":"mediacodec-hevc","value":"1"}
 		]
-	}]
+	}],
+	"ads":[]
 }
