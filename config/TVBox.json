@@ -47,8 +47,9 @@
 		{"name":"并发","type":2,"url":"Parallel"},
 		{"name":"轮询","type":2,"url":"Sequence"},
 		{"name":"自动解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}
-	],,
+	],
 	"ads":[]
 	"flags":[],
-	"rules":[]
+	"rules":[],
+	"ijk":[]
 }
