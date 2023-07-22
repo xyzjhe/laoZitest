@@ -5,7 +5,7 @@
     "播放数组": "playlist column\">&&</ul>",
     "导演": "导演:&&</li>",
     "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
-    "分类url": "https://www.tlmcnc.cn/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;ak",
+    "分类url": "https://www.tlmcnc.cn/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;ak",
     "副标题": "notes\">&&</div>",
     "简介": "+mo-ptxs-0px\">&&</p>",
     "链接": "href=\"&&\"",
