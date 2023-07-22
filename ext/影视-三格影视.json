@@ -5,7 +5,7 @@
     "播放数组": "playlist column\">&&</ul>",
     "导演": "导演:&&</li>",
     "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
-    "分类url": "https://www.tlmcnc.cn/t/{cateId}/area/{area}/by/{by}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+    "分类url": "https://www.tlmcnc.cn/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;ak",
     "副标题": "notes\">&&</div>",
     "简介": "+mo-ptxs-0px\">&&</p>",
     "链接": "href=\"&&\"",
@@ -448,28 +448,28 @@
                 "name": "分类",
                 "value": [
                     {
-                        "n": "全部分类",
+                        "n": "全部",
                         "v": ""
                     },
                     {
-                        "n": "国产剧",
-                        "v": "guochanju"
+                        "n": "古装",
+                        "v": "古装"
                     },
                     {
-                        "n": "港台剧",
-                        "v": "gangtaiju"
+                        "n": "战争",
+                        "v": "战争"
                     },
                     {
-                        "n": "日韩剧",
-                        "v": "rihanju"
+                        "n": "动作",
+                        "v": "动作"
                     },
                     {
-                        "n": "欧美剧",
-                        "v": "oumeiju"
+                        "n": "家庭",
+                        "v": "家庭"
                     },
                     {
-                        "n": "其他剧",
-                        "v": "qitaju"
+                        "n": "犯罪",
+                        "v": "犯罪"
                     }
                 ]
             },
