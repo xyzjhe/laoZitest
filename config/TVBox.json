@@ -108,26 +108,6 @@
 	{"ext": {"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]},, "name": "16号线", "type": 0, "url": "https://www.yemu.xyz/?url="},
 	{"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"], "header": {"User-Agent": "okhttp/4.1.0"},},, "name": "17号线", "type": 0, "url": "https://jx.zhanlangbu.com/?url="},
 	{"name": "18号线", "type": 0, "url": "https://jx.m3u8.pw/?url="}
-	
-	/*
-		{"name":"解析聚合","type":3,"url":"Demo"},
-		{"name":"Web 聚合","type":3,"url":"Web"},
-		{"name":"Json并发","type":2,"url":"Parallel"},
-		{"name":"Json轮询","type":2,"url":"Sequence"},
-		{"name":"X-01号线","type":1,"url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
-		{"name":"X-02号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-		{"name":"X-03号线","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-		{"name":"X-04号线","type":1,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
-		{"name":"X-05号线","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=1796272&key=chstuvyzCFHJKPSTU8&url="},
-		{"name":"S-01号线","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-		{"name":"S-02号线","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-		{"name":"S-03号线","type":0,"url":"https://jx.m3u8.pw/?url="},
-		{"name":"S-04号线","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-		{"name":"S-05号线","type":0,"url":"https://jx.xmflv.com/?url="},
-		{"name":"S-06号线","type":0,"url":"https://www.pouyun.com/?url="},
-		{"name":"S-07号线","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
-		{"name":"S-08号线","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
-	*/
 	],
 	"flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
 	"ijk":[{
