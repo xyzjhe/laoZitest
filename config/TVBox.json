@@ -51,6 +51,11 @@
 	],
 	"parses":[
 		{
+			"name": "18号线",
+			"type": 0,
+			"url": "https://jx.m3u8.pw/?url="
+		},
+		{
 			"name": "自动解析",
 			"type": 1,
 			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
@@ -66,7 +71,7 @@
 			"url": "https://jx.jsonplayer.com/player/?url="
 		}
 	],
-	"flags":["qq"],
+	"flags":[],
 	"ijk":[{
 		"group":"软解码",
 		"options":[
