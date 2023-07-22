@@ -1,7 +1,6 @@
 {
 	"spider":"https://jihulab.com/oiltea/tv/-/raw/main/custom_spider.jar;md5;EDAB3976B24E102336354D445026329F",
 	"wallpaper":"https://bing.img.run/rand.php",
-	"warningText":"接口免费整理维护，请勿付费购买",
 	"sites":[
 		{"key":"🏆┃豆瓣┃榜单┃🏆","name":"🏆┃豆瓣┃榜单┃🏆","type":3,"searchable":0,"quickSearch":0,"filterable":0,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/豆瓣.js"},
 		{"key":"📢┃新片┃热播┃📢","name":"📢┃新片┃热播┃📢","type":1,"searchable":0,"quickSearch":0,"filterable":0,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","categories":["电影","连续剧","综艺","动漫"]},
