@@ -3,11 +3,10 @@
     "播放标题": ">&&</a>",
     "播放列表": "<li&&</li>",
     "播放数组": "playlist column\">&&</ul>",
-    "导演": "导演:&&</li>",
     "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
     "分类url": "https://www.jubaibaib.com/s/{cateId}/area/{area}/by/{by}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
     "副标题": "notes\">&&</div>",
-    "简介": "+mo-ptxs-0px\"></p>",
+    "简介": "+mo-ptxs-0px\">&&</p>",
     "链接": "href=\"&&\"",
     "筛选": {
         "dianying": [
@@ -872,9 +871,10 @@
     "影片地区": "地区：&&<span",
     "影片类型": "类型：&&<span",
     "影片年代": "年份：&&</div>",
+    "主演": "主演:&&</li>",
+    "导演": "导演:&&</li>",
     "影片状态": "更新：&&</div>",
     "站名": "剧白白影视",
-    "主演": "主演:&&</li>",
     "主页url": "https://www.jubaibaib.com/",
     "作者": "荷城茶秀"
 }
