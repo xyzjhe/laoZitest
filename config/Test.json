@@ -10,15 +10,15 @@
 	"flags":[],
 	"rules":[],
 	"parses":[
- {"name":"解析01","type":0,"url":"https://jx.ppflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析02","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析03","type":0,"url":"https://jx.000180.top/jx/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析04","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析05","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析06","type":0,"url":"https://svip.bljiex.cc/?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析07","type":0,"url":"https://www.1717yun.com/jx/ty.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析08","type":0,"url":"https://www.administratorw.com/index/qqvod.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-,{"name":"解析09","type":0,"url":"https://www.administratorw.com/video.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+ {"name":"解析01","type":1,"url":"https://jx.ppflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析02","type":1,"url":"https://jx.playerjy.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析03","type":1,"url":"https://jx.000180.top/jx/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析04","type":1,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析05","type":1,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析06","type":1,"url":"https://svip.bljiex.cc/?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析07","type":1,"url":"https://www.1717yun.com/jx/ty.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析08","type":1,"url":"https://www.administratorw.com/index/qqvod.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+,{"name":"解析09","type":1,"url":"https://www.administratorw.com/video.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 
 	],
 	"ijk":[{
