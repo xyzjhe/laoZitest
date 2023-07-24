@@ -22,6 +22,17 @@
 ,{"name":"U-09","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.wannengjiexi.com/jiexi1/?url="}
 ,{"name":"U-10","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.wannengjiexi.com/jiexi3/?url="}
 ,{"name":"U-11","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://z1.m1907.top/?jx="}
+,{"name":"JU-01","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.xmflv.com/?url="}
+,{"name":"JU-02","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.m3u8.tv/jiexi/?url="}
+,{"name":"JU-03","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://svip.bljiex.cc/?v="}
+,{"name":"JU-04","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.jsonplayer.com/player/?url="}
+,{"name":"JU-05","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.8090g.cn/?url="}
+,{"name":"JU-06","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.8090.la/8090/?url="}
+,{"name":"JU-07","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.playm3u8.cn/jiexi.php?url="}
+,{"name":"JU-08","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"http://www.wpsseo.cn/jx/?url="}
+,{"name":"JU-09","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.wannengjiexi.com/jiexi1/?url="}
+,{"name":"JU-10","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.wannengjiexi.com/jiexi3/?url="}
+,{"name":"JU-11","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://z1.m1907.top/?jx="}
 	],
 	"ijk":[{
 		"group":"软解码",
