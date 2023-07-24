@@ -47,8 +47,10 @@
 	"rules":[],
 	"parses":[
 		{"name":"JSON 解析01","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-		{"name":"URL  解析01","type":1,"url":"https://yun.ckmov.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-		{"name":"URL  解析02","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+		{"name":"JSON 解析02","type":1,"url":"https://yun.ckmov.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+		{"name":"URL  解析01","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+		{"name":"URL  解析02","type":0,"url":"https://z1.m1907.top/?jx=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+		
 	],
 	"ijk":[{
 		"group":"软解码",
