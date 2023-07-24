@@ -10,7 +10,7 @@
 	"flags":[],
 	"rules":[],
 	"parses":[
-{"name":"URL  解析02","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+{"name":"URL  解析02","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 
 	],
 	"ijk":[{
