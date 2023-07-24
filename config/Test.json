@@ -15,9 +15,9 @@
 		,{"name":"轮询","type":2,"url":"Sequence"}
 		,{"name":"J-01","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}
 		,{"name":"J-02","type":1,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://yun.ckmov.com/?url="}
-		,{"name":"U-01","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://svip.bljiex.cc/?v="}
-		,{"name":"U-02","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.xmflv.com/?url="}
-		,{"name":"U-03","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.m3u8.tv/jiexi/?url="}
+		,{"name":"U-01","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.xmflv.com/?url="}
+		,{"name":"U-02","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.m3u8.tv/jiexi/?url="}
+		,{"name":"U-03","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://svip.bljiex.cc/?v="}
 		,{"name":"U-04","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://jx.jsonplayer.com/player/?url="}
 		,{"name":"U-05","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.8090g.cn/?url="}
 		,{"name":"U-06","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"],"header":{"User-Agent":"okhttp/4.1.0"}},"url":"https://www.8090.la/8090/?url="}
