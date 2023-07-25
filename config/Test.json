@@ -10,10 +10,6 @@
 	"flags":[],
 	"rules":[],
 	"parses":[
-		 {"name":"解析02","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://yun.ckmov.com/?url="}
-		,{"name":"解析03","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://jx.xmflv.com/?url="}
-		,{"name":"解析04","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://svip.bljiex.cc/?v="}
-		,{"name":"解析05","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://jx.jsonplayer.com/player/?url="}
 	],
 	"ijk":[{
 		"group":"软解码",
