@@ -2,9 +2,18 @@
 	"spider":"https://jihulab.com/oiltea/tv/-/raw/main/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
-		{"key":"[影视]-解析-腾讯解析","name":"📺解析┃腾讯视频","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-解析-腾讯视频.js"},
-		{"key":"[影视]-解析-奇艺解析","name":"📺解析┃奇艺视频","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-解析-奇艺视频.js"},
-		{"key":"[影视]-解析-优酷解析","name":"📺解析┃优酷视频","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/oiltea/tv/-/raw/main/api/drpy.min.js","ext":"https://jihulab.com/oiltea/tv/-/raw/main/ext/影视-解析-优酷视频.js"}
+		 {"api": "csp_Aidi", "filterable": 1, "key": "csp_Aidi", "name": "爱迪", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_Enlienli", "filterable": 1, "key": "csp_Enlienli", "name": "嗯哩嗯哩", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_Auete", "filterable": 1, "key": "csp_Auete", "name": "Auete", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_Cokemv", "filterable": 1, "key": "csp_Cokemv", "name": "Cokemv", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_Buka", "filterable": 1, "key": "csp_Buka", "name": "真不卡(测试)", "quickSearch": 0, "searchable": 0, "type": 3}
+		,{"api": "csp_Ysgc", "filterable": 1, "key": "csp_Ysgc", "name": "影视工厂", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_N0ys", "filterable": 0, "key": "csp_N0ys", "name": "90影视", "quickSearch": 1, "searchable": 1, "type": 3}
+		,{"api": "csp_Nekk", "filterable": 1, "key": "csp_Nekk", "name": "9E看看", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_Imaple", "filterable": 1, "key": "csp_Imaple", "name": "枫林网(爬虫)", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_Jumi", "filterable": 1, "key": "csp_Jumi", "name": "剧迷(爬虫)", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_Nfx", "filterable": 1, "key": "csp_Nfx", "name": "NFXHD(爬虫)", "quickSearch": 0, "searchable": 1, "type": 3}
+		,{"api": "csp_YydsAli1", "filterable": 0, "key": "csp_YydsAli1", "name": "YYDS阿里(爬虫)", "quickSearch": 0, "searchable": 1, "type": 3}
 	],
 	"ads":[],
 	"flags":[],
