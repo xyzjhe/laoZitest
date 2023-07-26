@@ -1,8 +1,8 @@
 {
-	"spider":"https://jihulab.com/oiltea/tv/-/raw/main/spider/custom_spider.jar;md5;9813ecdfe739dae9f6ec62142ea9162e",
+	"spider":"https://jihulab.com/oiltea/tv/-/raw/main/spider/custom_spider.jar;md5;4d23c87bd400c135c5c691f5a6f3e2aa",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
-		{"key":"Aidi","name":"Aidi","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Aidi"}
+		{"key":"Test","name":"Test","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Test"}
 	],
 	"ads":[],
 	"flags":[],
