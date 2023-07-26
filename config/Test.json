@@ -1,5 +1,5 @@
 {
-	"spider":"https://jihulab.com/oiltea/tv/-/raw/main/spider/custom_spider.jar;md5;4d23c87bd400c135c5c691f5a6f3e2aa",
+	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/main/jar/custom_spider.jar;md5;e43a84197bf0dcac50990fbc7f2ca470",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
 		{"key":"Test","name":"Test","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Test"}
