@@ -1,5 +1,5 @@
 {
-	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/master/jar/custom_spider.jar;md5;3dab0f03ecdb5af0ccac58a8f8a4a2a9",
+	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/master/jar/custom_spider.jar;md5;2f7f77a41e4d9378c96cc45bbcf14fd3",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
 		{"key":"魔力影视","name":"魔力影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaHDmoli","ext":"fev2rb87o16e2287s7oaq13nri"},
