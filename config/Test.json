@@ -1,8 +1,11 @@
 {
-	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/master/jar/custom_spider.jar;md5;204e154bc71e4ddcd5cb6355dc6a6de7",
+	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/master/jar/custom_spider.jar;md5;0d5b8b020642707c9c76cc93b14f5aa7",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
-		{"key":"魔力影视","name":"魔力影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaHDmoli","ext":"fev2rb87o16e2287s7oaq13nri"}
+		{"key":"魔力影视","name":"魔力影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaHDmoli","ext":"fev2rb87o16e2287s7oaq13nri"},
+		{"key":"全能影视","name":"全能影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaQnys"}
+		
+		
 	],
 	"ads":[],
 	"flags":[],
