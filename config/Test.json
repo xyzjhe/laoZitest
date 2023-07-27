@@ -1,8 +1,8 @@
 {
-	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/master/jar/custom_spider.jar;md5;364ee812bb0b940decbaf90ff4ecc12d",
+	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/master/jar/custom_spider.jar;md5;5927536141dd66a650f59dff655c756e",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
-		{"key":"Test","name":"Test","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Test"}
+		{"key":"魔力影视","name":"魔力影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaHDmoli","ext":"fev2rb87o16e2287s7oaq13nri"}
 	],
 	"ads":[],
 	"flags":[],
