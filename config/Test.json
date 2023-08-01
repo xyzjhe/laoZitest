@@ -1,10 +1,8 @@
 {
-	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/master/jar/custom_spider.jar;md5;699427415f53242d915fe319e9808c30",
+	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/test-20230801/jar/custom_spider.jar;md5;38e31a26a9b49b887df14d73dfaf9caa",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
-		{"key":"魔力影视","name":"魔力影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaHDmoli","ext":"fev2rb87o16e2287s7oaq13nri"},
-		{"key":"全能影视","name":"全能影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaQnys"},
-		{"key":"玩偶哥哥","name":"玩偶哥哥","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaWogg"}
+		{"key":"测试","name":"测试","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaTest"}
 	],
 	"ads":[],
 	"flags":[],
