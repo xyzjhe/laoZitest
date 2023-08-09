@@ -1,5 +1,5 @@
 {
-	"spider":"https://jihulab.com/oiltea/TVBox/-/raw/main/spider/custom_spider.jar;md5;77e43894ad58ba5751d2e463fb68dd1b",
+	"spider":"https://jihulab.com/oiltea/TVBox/-/raw/main/spider/custom_spider.jar;md5;4fe0a10c5e2dabd45c721154e3845577",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
 		{"key":"测试","name":"测试","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AliyunWogg"}
