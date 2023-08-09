@@ -1,8 +1,8 @@
 {
-	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/test-20230801/jar/custom_spider.jar;md5;fd6d0bbb81ec6d86d3c5e925a0527380",
+	"spider":"https://jihulab.com/oiltea/TVBox/-/raw/main/spider/custom_spider.jar;md5;fd6d0bbb81ec6d86d3c5e925a0527380",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
-		{"key":"测试","name":"测试","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_OilteaTest"}
+		{"key":"测试","name":"测试","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AliyunWogg"}
 	],
 	"ads":[],
 	"flags":[],
