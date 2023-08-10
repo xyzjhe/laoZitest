@@ -1,0 +1,13 @@
+{
+  "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+  "drives": [
+    {
+      "name": "我的",
+      "server": "http://192.168.3.64:5244",
+      "login": {
+        "username": "admin",
+        "password": "admin"
+      }
+    }
+  ]
+}
