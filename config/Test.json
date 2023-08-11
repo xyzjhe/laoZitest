@@ -2,8 +2,7 @@
 	"spider":"https://jihulab.com/oiltea/CatVodTVSpider/-/raw/main/jar/custom_spider.jar",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":[
-		{"key":"测试","name":"测试","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AliyunWogg"},
-		{"key":"Test","name":"Test","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Test"}
+		{"key":"测试","name":"测试","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AliyunWogg"}
 	],
 	"ads":[],
 	"flags":[],
