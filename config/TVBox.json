@@ -1,5 +1,5 @@
 {
-	"spider":"https://jihulab.com/xxx/tv/-/raw/main/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F",
+	"spider":"https://agit.ai/laozou/laoZitest/raw/branch/main/jar/xyq0810.jar",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":
 	[
@@ -9,7 +9,7 @@
 	{"key":"py_cctv","name": "📺CCTV回放📺","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/🇨🇳央视节目┃需软件支持.py"},
 	{"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
     {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili3.py"},
-    {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py"},
+    {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py"}
 
 	],
 	"ads":[],
