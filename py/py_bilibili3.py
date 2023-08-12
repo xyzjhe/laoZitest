@@ -151,7 +151,7 @@ class Spider(Spider):  # 元类 默认的元类 type
     def getCookie(self):
 
         #在下方cookies_str  后面 双引号里面放置你的cookies
-        cookies_str = "buvid3=A74C6D04-52F0-471F-9EA8-25AB2587DA1130991infoc; b_nut=1678865030; _uuid=2426C7105-9ABC-3F6C-3103F-255103AEF1039311399infoc; buvid_fp=546dee260d9e4aaaeb01dc05fcd4fa75; b_lsid=79E4DF11_18749E2E24E; SESSDATA=b5ce913a%2C1696123996%2C528a1%2A41; bili_jct=5e85da4e3c8338a048f6ce7acc14235f; DedeUserID=671023938; DedeUserID__ckMd5=48c152aca085bcce; sid=nxmuucf2; buvid4=755A0934-B453-359D-82FE-6388E45B92BE21720-023032316-5ZCNRwNsIx0J0bOpxFv4ew%3D%3D; bp_video_offset_671023938=780515816961474676; innersign=0; PVID=1"
+        cookies_str = "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
         if cookies_str:
             cookies =  dict([co.strip().split('=') for co in cookies_str.split(';')])
             bili_jct = cookies['bili_jct']
