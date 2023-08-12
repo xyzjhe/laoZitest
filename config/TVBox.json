@@ -1,4 +1,4 @@
-{
+   {
 	"spider":"https://agit.ai/laozou/laoZitest/raw/branch/main/jar/xyq0810.jar",
 	"wallpaper":"https://bing.img.run/rand.php",
 	"sites":
@@ -25,7 +25,8 @@
 		{"name":"解析03","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://svip.bljiex.cc/?v="},
 		{"name":"解析04","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://jx.jsonplayer.com/player/?url="}
 	],
-	"ijk":[{
+	"ijk":[
+		{
 		"group":"软解码",
 		"options":[
 			{"category":1,"name":"dns_cache_timeout","value":"600000000"},
@@ -43,9 +44,9 @@
 			{"category":4,"name":"mediacodec","value":"0"},
 			{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
 			{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
-			{"category":4,"name":"mediacodec-hevc","value":"0"}
-		]
-	}, {
+			{"category":4,"name":"mediacodec-hevc","value":"0"}]
+	        }, 
+	   {
 		"group":"硬解码",
 		"options":[
 			{"category":1,"name":"dns_cache_timeout","value":"600000000"},
@@ -63,7 +64,7 @@
 			{"category":4,"name":"mediacodec","value":"1"},
 			{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 			{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
-			{"category":4,"name":"mediacodec-hevc","value":"1"}
-		]
-	}]
-}
+			{"category":4,"name":"mediacodec-hevc","value":"1"}]
+	   }
+	   ]
+   }
