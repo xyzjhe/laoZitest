@@ -150,8 +150,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def getCookie(self):
 
-        #在下方cookies_str  后面 双引号里面放置你的cookies
-        cookies_str = "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
+        #放置你的cookies
+        rsp=self.fetch("http://127.0.0.1:9978/file/tvboxzz/cookie.txt")
+        cookies_str = rsp.text
         if cookies_str:
             cookies =  dict([co.strip().split('=') for co in cookies_str.split(';')])
             bili_jct = cookies['bili_jct']
