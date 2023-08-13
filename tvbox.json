@@ -31,8 +31,8 @@
 	{"key":"小学语文","name":"📗小学语文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学语文.json"},
 	{"key":"小学数学","name":"📐小学数学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学数学.json"},
 	{"key":"小学英语","name":"🔤小学英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学英语.json"},
-	{"key":"小学教育","name":"小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学教育.json"},
 
+	{"key":"小学教育","name":"小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学教育.json"},
 	{"key":"初中教育","name":"初中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/初中教育.json"},
 	{"key":"高中教育","name":"高中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/高中教育.json"}
 
