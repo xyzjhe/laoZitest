@@ -6,65 +6,45 @@
 	"wallpaper":"https://bing.img.run/rand.php",
 	
 	"sites":
-	[
+	     [    
+              {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},	
+	      {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
+	      {"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
 
-	{"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},	
-	{"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
-	{"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
+	      {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/KungFu404.jar"},
 
-	{"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/KungFu404.jar"},
+              {"key":"drpy_js_4KHDR","name":"影视 | 4KHDR[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":0},
+              {"key":"drpy_js_极影网","name":"影视 | 极影网[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
+              {"key":"drpy_js_电影港","name":"影视 | 电影港[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
 
-        {"key":"drpy_js_4KHDR","name":"影视 | 4KHDR[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":0},
-        {"key":"drpy_js_极影网","name":"影视 | 极影网[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
-        {"key":"drpy_js_电影港","name":"影视 | 电影港[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
+	      {"key":"py_cctv1","name": "📺CCTV大全📺","type": 3,"api": "py_cctv1","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_all.py"},
+	      {"key":"py_cctv2","name": "📺CCTV片库📺","type": 3,"api": "py_cctv2","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/📺央视片库┃需软件支持.py"},
+	      {"key":"py_cctv3","name": "📺CCTV回放📺","type": 3,"api": "py_cctv3","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/🇨🇳央视节目┃需软件支持.py"},
 
-	{"key":"CCTV","name":"🅱️┃CCTV┃🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/cctv.json"},
-    
-	{"key":"py_cctv1","name": "📺CCTV大全📺","type": 3,"api": "py_cctv1","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_all.py"},
-	{"key":"py_cctv2","name": "📺CCTV片库📺","type": 3,"api": "py_cctv2","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/📺央视片库┃需软件支持.py"},
-	{"key":"py_cctv3","name": "📺CCTV回放📺","type": 3,"api": "py_cctv3","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/🇨🇳央视节目┃需软件支持.py"},
+	      {"key":"CCTV","name":"🅱️┃CCTV┃🅱️","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/cctv.json"},
 
-        {"key":"me_iqiyi","name":"🥝┃PHP┃AI奇艺┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
-        {"key":"me_qq","name":"🥝┃PHP┃企鹅WO┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},
-	{"key":"me_360","name":"🥝┃PHP┃360┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1},
+              {"key":"me_iqiyi","name":"🥝┃PHP┃AI奇艺┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
+              {"key":"me_qq","name":"🥝┃PHP┃企鹅WO┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},
+	      {"key":"me_360","name":"🥝┃PHP┃360┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1},
 		
-	{"key":"csp_qq","name":"🐧┃PHP┃QQ企鹅┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+	      {"key":"csp_qq","name":"🐧┃PHP┃QQ企鹅┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 	
+              {"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
+              {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili3.py"},
+              {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py"},
 
-	{"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
-        {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili3.py"},
-        {"key": "py_Nvtuan", "name": "🅱️┃女团py┃热舞🅱️", "type": 3,"playerType":2, "api": "py_Nvtuan", "searchable": 0,  "quickSearch": 0,"filterable": 1, "ext": "./py/nvtuan.py"},
+	      {"key":"小学语文","name":"📗小学语文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学语文.json"},
+	      {"key":"小学数学","name":"📐小学数学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学数学.json"},
+	      {"key":"小学英语","name":"🔤小学英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学英语.json"},
 
-	{"key":"小学语文","name":"📗小学语文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学语文.json"},
-	{"key":"小学数学","name":"📐小学数学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学数学.json"},
-	{"key":"小学英语","name":"🔤小学英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学英语.json"},
+	      {"key":"小学教育","name":"小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学教育.json"},
+	      {"key":"初中教育","name":"初中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/初中教育.json"},
+	      {"key":"高中教育","name":"高中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/高中教育.json"},
 
-	{"key":"小学教育","name":"小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/小学教育.json"},
-	{"key":"初中教育","name":"初中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/初中教育.json"},
-	{"key":"高中教育","name":"高中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./bili/高中教育.json"},
+              {"key":"frok","name":" 🦋配置接口完全免费🦋","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+              {"key":"可耻","name":" 🦐请勿相信视频中任何广告 🦐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 
-        {"key":"frok","name":" 🦋配置接口完全免费🦋","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-        {"key":"可耻","name":" 🦐请勿相信视频中任何广告 🦐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
-
-	],
-
-	"doh":
-	 [
-	 {"name": "腾讯","url": "https://doh.pub/dns-query"},
-         {"name": "阿里","url": "https://dns.alidns.com/dns-query"},
-         {"name": "360", "url": "https://doh.360.cn/dns-query"},
-         {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
-         {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
-         {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
-         {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
-         {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
-         ],
-
-	"rules":[{"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},{"host":"v.douyin.com","rule":["playwm/?video_id="]}],
-
-        "flags":["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"], 
-
-	"ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
+	     ],
 
 	"parses":[
 		{"name":"聚合","type":3,"url":"Demo"},
@@ -76,6 +56,34 @@
 		{"name":"解析03","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://svip.bljiex.cc/?v="},
 		{"name":"解析04","type":0,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]},"url":"https://jx.jsonplayer.com/player/?url="}
 	        ],
+
+	"doh":
+	     [
+	      {"name": "腾讯","url": "https://doh.pub/dns-query"},
+              {"name": "阿里","url": "https://dns.alidns.com/dns-query"},
+              {"name": "360", "url": "https://doh.360.cn/dns-query"},
+              {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
+              {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+              {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
+              {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
+              {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
+              ],
+
+	"rules":
+	      [
+	       {"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	       {"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	       {"name":"暴风广告","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	       {"name":"磁力广告","hosts":["magnet"],"regex":["最 新","直 播","更 新","更多","社 区","x u u"]},
+	       {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+	       {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
+	      ],
+
+        
+        "flags":["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"], 
+
+	"ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
+	   
 	"ijk":[
 		{
 		"group":"软解码",
@@ -97,7 +105,7 @@
 			{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
 			{"category":4,"name":"mediacodec-hevc","value":"0"}]
 	        }, 
-	   {
+	       {
 		"group":"硬解码",
 		"options":[
 			{"category":1,"name":"dns_cache_timeout","value":"600000000"},
@@ -116,6 +124,6 @@
 			{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 			{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 			{"category":4,"name":"mediacodec-hevc","value":"1"}]
-	   }
-	   ]
+	       }
+	       ]
    }
