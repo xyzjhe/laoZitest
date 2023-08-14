@@ -12,6 +12,8 @@
 	{"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
 	{"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
 
+	{"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/KungFu404.jar"},
+
         {"key":"drpy_js_4KHDR","name":"影视 | 4KHDR[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":0},
         {"key":"drpy_js_极影网","name":"影视 | 极影网[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
         {"key":"drpy_js_电影港","name":"影视 | 电影港[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
