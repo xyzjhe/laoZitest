@@ -21,7 +21,9 @@
 	{"key":"py_cctv3","name": "📺CCTV回放📺","type": 3,"api": "py_cctv3","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/🇨🇳央视节目┃需软件支持.py"},
 
         {"key":"me_iqiyi","name":"🥝┃PHP┃AI奇艺┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
-
+        {"key":"me_qq","name":"🥝┃PHP┃企鹅WO┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},
+	{"key":"me_youku","name":"🥝┃PHP┃YouKU┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/youku","searchable":1,"quickSearch":1},
+		
 	{"key":"csp_qq","name":"🐧┃PHP┃QQ企鹅┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 	{"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
