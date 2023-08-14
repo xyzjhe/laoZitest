@@ -22,7 +22,7 @@
 
         {"key":"me_iqiyi","name":"🥝┃PHP┃AI奇艺┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
         {"key":"me_qq","name":"🥝┃PHP┃企鹅WO┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},
-	{"key":"me_youku","name":"🥝┃PHP┃YouKU┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/youku","searchable":1,"quickSearch":1},
+	{"key":"me_360","name":"🥝┃PHP┃360┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/360","searchable":1,"quickSearch":1},
 		
 	{"key":"csp_qq","name":"🐧┃PHP┃QQ企鹅┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_iqiyi","name":"🐧┃PHP┃爱奇艺┃test","type":1,"api":"http://tvbox.top/iqiyi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
