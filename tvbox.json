@@ -25,6 +25,7 @@
 	{"key":"me_youku","name":"🥝┃PHP┃YouKU┃test", "type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/youku","searchable":1,"quickSearch":1},
 		
 	{"key":"csp_qq","name":"🐧┃PHP┃QQ企鹅┃test","type":1,"api":"http://tvbox.top/qq.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_iqiyi","name":"🐧┃PHP┃爱奇艺┃test","type":1,"api":"http://tvbox.top/iqiyi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 	{"key": "py_bili4","name": "🅱️┃B站V4┃PY(4K)🅱️", "type": 3,"playerType":2, "api": "py_bilii",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili4.py"},
         {"key": "py_bili3","name": "🅱️┃B站V3┃PY(2K)🅱️", "type": 3,"playerType":2, "api": "py_bilivd",  "searchable": 0,  "quickSearch": 0, "filterable": 1,"ext": "./py/py_bilibili3.py"},
