@@ -64,17 +64,16 @@ async function home(filter) {
       filters: filterObj,
   });
 }
-
 async function homeVod() {
-  let html = HOST + '/x/web-interface/popular?ps=20';
-  let data = JSON.parse(await request(html)).data.list;
+  let html = HOST + '/x/web-interface/search/type?search_type=video&keyword='+homeName;
+  let data = JSON.parse(await request(html)).data.result;
   let videos = [];
   data.forEach(function(it) {
       videos.push({
           vod_id: it.aid,
           vod_name: stripHtmlTag(it.title),
-          vod_pic: it.pic,
-          vod_remarks: '🔥 ' + it.vt_display || '',
+          vod_pic: 'http:'+it.pic,
+          vod_remarks: turnDHM(it.duration) || '',
       });
   });
   return JSON.stringify({
@@ -125,7 +124,7 @@ async function detail(id) {
     )
   });
   let playUrl = playurls.join('#');
-  vod.vod_play_from = '道长在线';
+  vod.vod_play_from = 'B站';
   vod.vod_play_url = playUrl;
   return JSON.stringify({
     list: [vod],
