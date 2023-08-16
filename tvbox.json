@@ -13,6 +13,16 @@
 
 	      {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/KungFu404.jar"},
 
+               {
+               "key": "bili",
+               "name": " 🅱️bilibili|maoJS🅱️",
+               "type": 3,
+               "searchable": 1,
+               "changeable": 1,
+               "api": "./js/mybili_open.js",
+               "jar": "./jar/FM0812b.jar"  
+              },
+		     
 	      {
                "key": "bilibili",
                "name": " 🐹bili小灯塔|maoJS🐹",
@@ -23,15 +33,7 @@
                "jar": "./jar/FM0812b.jar"  
               },
 
-	      {
-               "key": "bili",
-               "name": " 🅱️bilibili|maoJS🅱️",
-               "type": 3,
-               "searchable": 1,
-               "changeable": 1,
-               "api": "./js/mybili_open.js",
-               "jar": "./jar/FM0812b.jar"  
-              },
+	     
 
               {"key":"drpy_js_4KHDR","name":"影视 | 4KHDR[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":0},
               {"key":"drpy_js_极影网","name":"影视 | 极影网[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
