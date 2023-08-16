@@ -1,4 +1,4 @@
-﻿import { _ } from "assets://js/lib/cat.js";
+﻿import { _ } from "assets://lib/cat.js";
 let key = '我的哔哩';
 let HOST = 'https://api.bilibili.com';
 let siteKey = '';
