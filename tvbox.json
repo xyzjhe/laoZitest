@@ -20,7 +20,7 @@
                "searchable": 1,
                "changeable": 1,
                "api": "./open/czzy_open.js",
-               "jar": "./jar/FM0812.jar;md5;3e353d2564e6293da3520b21fb2867d9"  
+               "jar": "./jar/FM0812b.jar"  
               },
 
               {"key":"drpy_js_4KHDR","name":"影视 | 4KHDR[js] | 磁","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":0},
