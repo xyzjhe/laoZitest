@@ -29,7 +29,7 @@
                "type": 3,
                "searchable": 1,
                "changeable": 1,
-               "api": "./js/bili.js",
+               "api": "./js/mybili_open.js",
                "jar": "./jar/FM0812b.jar"  
               },
 
